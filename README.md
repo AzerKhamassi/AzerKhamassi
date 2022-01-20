@@ -1,6 +1,6 @@
 ### Hi there, I'm Azer 👋
 
-- 👉 If you are on the hunt for the next achiever within your company, for the one with the mindset of a solution oriented profile and thoroughly creative soul, then guess what, I’m also looking for you. Let’s unite and write a new success story by making the world a better place.
+👉 If you are on the hunt for the next achiever within your company, for the one with the mindset of a solution oriented profile and thoroughly creative soul, then guess what, I’m also looking for you. Let’s unite and write a new success story by making the world a better place.
  
 
 ### Connect with me:

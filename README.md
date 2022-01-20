@@ -33,6 +33,9 @@
 <br />
 <br />
 
+### Spotify Playing 
+<img src"spotifiy-now-playing.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350"
+
 [twitter]: https://twitter.com/AzerKhamassi
 [instagram]: https://instagram.com/azerxkhamassi
 [linkedin]: https://linkedin.com/in/azer-khamassi-79b088179
